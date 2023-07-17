@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\1 - ManagerAPI",
+    "\\2 - Manager.Domain",
+    "\\3 - Manager.Services",
+    "\\3 - Manager.Services\\Services",
+    "\\4 - Manager.Infra",
+    "\\4 - Manager.Infra\\Interfaces",
+    "\\4 - Manager.Infra\\Repositories",
+    "\\5 - Manager.Core",
+    "\\5 - Manager.Core\\Exceptions"
+  ],
+  "SelectedNode": "\\2 - Manager.Domain\\Validators\\LibraryValidator.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+C:\Users\joaov\Documents\manager\src\4 - Manager.Infra\obj\Debug\net7.0\Manager.Infra.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\manager\src\4 - Manager.Infra\obj\Debug\net7.0\Manager.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\manager\src\4 - Manager.Infra\obj\Debug\net7.0\Manager.Infra.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\manager\src\4 - Manager.Infra\obj\Debug\net7.0\Manager.Infra.AssemblyInfo.cs
+C:\Users\joaov\Documents\manager\src\4 - Manager.Infra\obj\Debug\net7.0\Manager.Infra.csproj.CoreCompileInputs.cache

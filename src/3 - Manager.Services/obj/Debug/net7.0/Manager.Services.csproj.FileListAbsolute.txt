@@ -1,0 +1,12 @@
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\bin\Debug\net7.0\Manager.Services.deps.json
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\bin\Debug\net7.0\Manager.Services.dll
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\bin\Debug\net7.0\Manager.Services.pdb
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.AssemblyInfo.cs
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.dll
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\refint\Manager.Services.dll
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\Manager.Services.pdb
+C:\Users\joaov\Documents\manager\src\3 - Manager.Services\obj\Debug\net7.0\ref\Manager.Services.dll

@@ -1,0 +1,17 @@
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\manager\src\Manager.Domain\bin\Debug\net7.0\Manager.Domain.deps.json
+C:\Users\joaov\Documents\manager\src\Manager.Domain\bin\Debug\net7.0\Manager.Domain.dll
+C:\Users\joaov\Documents\manager\src\Manager.Domain\bin\Debug\net7.0\Manager.Domain.pdb
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.dll
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\refint\Manager.Domain.dll
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\Manager.Domain.pdb
+C:\Users\joaov\Documents\manager\src\Manager.Domain\obj\Debug\net7.0\ref\Manager.Domain.dll
+C:\Users\joaov\Documents\manager\src\2 - Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\manager\src\2 - Manager.Domain\obj\Debug\net7.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\manager\src\2 - Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\manager\src\2 - Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\joaov\Documents\manager\src\2 - Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.CoreCompileInputs.cache

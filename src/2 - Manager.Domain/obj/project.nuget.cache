@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g13NCn9DMOMWK9kYItxruOJ4DcMywV+yWV8T3WWpXPDQfwwytlHK49+4CfOZabqe6/JuamtIzHN5LlqViq95rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Documents\\manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

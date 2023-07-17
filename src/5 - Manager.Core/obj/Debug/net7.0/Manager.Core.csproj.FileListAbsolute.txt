@@ -1,0 +1,12 @@
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\bin\Debug\net7.0\Manager.Core.deps.json
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\bin\Debug\net7.0\Manager.Core.dll
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\bin\Debug\net7.0\Manager.Core.pdb
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.AssemblyInfo.cs
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.dll
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\refint\Manager.Core.dll
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\Manager.Core.pdb
+C:\Users\joaov\Documents\manager\src\5 - Manager.Core\obj\Debug\net7.0\ref\Manager.Core.dll
